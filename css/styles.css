@@ -3,10 +3,11 @@
     --D-Secondary-main: #049DD9;
     --D-Tertiary-main: #BF0449;  
     --D-font:"Abhaya Libre";
+    --D-font-text: "SF Pro";
     --D-text: #141212;
   }
   p {
-    font-family: var(--D-front)
+    font-family: var(--D-font-text);
     color: var(--D-text)
   }
 
